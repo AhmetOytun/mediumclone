@@ -1,0 +1,15 @@
+body{
+    font-family: 'Times New Roman', Times, serif;  
+}
+.bg-yellow{
+    background-color: #FFC017;
+}
+.border-1px{
+    border-bottom: solid 1px #424242;
+}
+.border-dark-1px{
+    border-bottom: solid 1px #c8c8c8;
+}
+.aside-buttons>li{
+    margin-bottom: 10px;
+}
